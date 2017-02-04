@@ -1,7 +1,4 @@
-eureka:
-    client:
-     service-url:
-      defaultZone: http://10.122.12.239:8761/eureka/,http://10.122.12.238:8761/eureka/
+
 mongodb:
     username: portal
     source: portal
