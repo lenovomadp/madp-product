@@ -3,7 +3,7 @@ eureka:
      service-url:
       defaultZone: http://10.122.12.239:8761/eureka/,http://10.122.12.238:8761/eureka/
 mongodb:
-    username:portal
+    username: portal
     source: portal
     password: madpadmin
     serverAddress: 10.122.12.246
