@@ -1,6 +1,0 @@
-spring:
-    redis:
-      jedis:
-        ip: 10.122.12.244
-        port: 6379
-        auth: abcd-1234
