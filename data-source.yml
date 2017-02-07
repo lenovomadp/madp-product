@@ -1,7 +1,7 @@
 mongodb:
-    username: portal
-    source: portal
-    password: madpadmin
-    serverAddress: 10.122.12.246
+  username: portal
+  source: portal
+  password: madpadmin
+  serverAddress: 10.122.12.246
 
         
