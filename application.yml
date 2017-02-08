@@ -21,4 +21,4 @@ mongodb:
   source: portal
   password: madpadmin
   serverAddress: 10.122.12.246  
-  port:27017
+  port: 27017
