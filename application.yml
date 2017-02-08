@@ -22,3 +22,5 @@ mongodb:
   password: madpadmin
   serverAddress: 10.122.12.246  
   port: 27017
+  
+ pagesize: 20
